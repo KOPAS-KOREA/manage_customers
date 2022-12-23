@@ -32,7 +32,6 @@ playbutton.addEventListener("click",play);
 resetbutton.addEventListener("click",reset);
 userinput.addEventListener("focus",function(){userinput.value=""})
 
-f
 
 
 
